@@ -1,0 +1,52 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.control{
+display:flex;
+justify-content:center;
+}
+.rad{
+	display:flex;
+	justify-content:space-around;
+	height:40px;
+	align-items:center;
+	width:100px;	
+}
+#buy_side{
+	border:1px solid black;
+}
+#buy{
+	height:180px;
+}
+.input_contro{
+display:flex;
+justify-content:center;
+}
+.drop_contro{
+display:flex;
+justify-content:center;
+}
+.input_control{
+	height:50px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	width:600px;
+}
+.drop_control{
+	height:50px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	width:600px;
+}
+.submit{
+	height:50px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+#sell_side{
+	border:1px solid black;
+}
